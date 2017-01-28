@@ -29,3 +29,9 @@ O banco de dados deve ser populado com algumas contas.
 1. Aplicar conceitos de SOLID
 2. Testes unitários
 3. Utilizar bibliotecas de frontend (JQuery, Bootstrap, Angular, ModuleJS, etc)
+
+## Rodar a aplicação
+
+1. $ java -jar bluebank-0.0.1.jar
+2. Para ver a tela da aplicação: localhost:8080
+3. Para abrir o banco, no browser digitar: localhost:8080/console (com a aplicação rodando)

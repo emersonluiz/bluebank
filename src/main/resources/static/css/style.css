@@ -1,0 +1,40 @@
+.box {
+	width: 600px;
+	margin-left: 20px;
+	background:#E9E9E9;
+	border: 1px solid #6495ED;
+	padding: 15px;
+}
+
+.title {
+	font-weight: bold;
+	margin-bottom: 5px;
+	color: #000080;
+}
+
+.toolbar {
+	background: #2F5F8F;
+	height: 60px;
+	color: #FFF;
+	font-weight: bolder;
+	font-size: 20px;
+	line-height: 60px;
+	padding: 0px 10px;
+}
+
+.fa-exclamation-circle {
+	color: #a94442
+}
+
+h3 {
+	margin-left: 20px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+label {
+	color: #696969;
+}

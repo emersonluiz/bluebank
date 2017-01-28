@@ -1,0 +1,1 @@
+INSERT INTO conta(cpf, agencia, numero, valor) VALUES (333, 1234, 123123, 1230), (444, 1234, 456456, 32)
